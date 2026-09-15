@@ -243,4 +243,4 @@ This repository serves as the official landing page for ChoreMonster. The softwa
 **Get the most recent version of ChoreMonster today!**
 
 ---
-**Last updated:** 2026-09-15 06:50:27 UTC
+**Last updated:** 2026-09-15 12:16:54 UTC
